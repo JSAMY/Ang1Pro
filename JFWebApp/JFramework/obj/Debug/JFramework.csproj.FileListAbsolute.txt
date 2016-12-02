@@ -1,0 +1,16 @@
+C:\JA\Personal\Project\JFramework\JFramework\bin\JFramework.dll.config
+C:\JA\Personal\Project\JFramework\JFramework\bin\JFramework.dll
+C:\JA\Personal\Project\JFramework\JFramework\bin\JFramework.pdb
+C:\JA\Personal\Project\JFramework\JFramework\obj\Debug\JFramework.dll
+C:\JA\Personal\Project\JFramework\JFramework\obj\Debug\JFramework.pdb
+C:\JA\Personal\Project\JFramework\JFramework\bin\Newtonsoft.Json.dll
+C:\JA\Personal\Project\JFramework\JFramework\bin\Newtonsoft.Json.xml
+C:\JA\Personal\Project\JFramework\JFramework\obj\Debug\JFramework.csprojResolveAssemblyReference.cache
+C:\JA\Personal\Project\WebApp\JFWebApp\JFramework\bin\JFramework.dll.config
+C:\JA\Personal\Project\WebApp\JFWebApp\JFramework\bin\JFramework.dll
+C:\JA\Personal\Project\WebApp\JFWebApp\JFramework\bin\JFramework.pdb
+C:\JA\Personal\Project\WebApp\JFWebApp\JFramework\bin\Newtonsoft.Json.dll
+C:\JA\Personal\Project\WebApp\JFWebApp\JFramework\bin\Newtonsoft.Json.xml
+C:\JA\Personal\Project\WebApp\JFWebApp\JFramework\obj\Debug\JFramework.csprojResolveAssemblyReference.cache
+C:\JA\Personal\Project\WebApp\JFWebApp\JFramework\obj\Debug\JFramework.dll
+C:\JA\Personal\Project\WebApp\JFWebApp\JFramework\obj\Debug\JFramework.pdb
